@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362341278716",
+    "project_id": "riverpodflutterauth",
+    "storage_bucket": "riverpodflutterauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362341278716:android:a41c394365ab884cb38879",
+        "android_client_info": {
+          "package_name": "com.example.rivxpxd_fireflux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362341278716-rhr3e4hid8ucipv37e1eg0eq7p3d1f23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rivxpxd_fireflux",
+            "certificate_hash": "423870fd4bc0a40d3f2d17f5c7df37e137cb5560"
+          }
+        },
+        {
+          "client_id": "362341278716-b9a8bm04h85f71riplqncv2j49d4lqh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybctt8JiDVtFi8wHXdq8eA_92srcRe9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362341278716-b9a8bm04h85f71riplqncv2j49d4lqh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
